@@ -44,7 +44,7 @@ This repository contains all the code(model, make_dataset etc) so you can custom
 
 ***
 
-## __Explanation about folder.__
+## __Explanation about Folder & File.__
 development_files_for_reference :  Miscellaneous files used during development (feel free to delete)
 
 main_data : Path where collected data is stored: We collected left, right clockwise and counterclockwise data.
