@@ -65,7 +65,7 @@ train.ipynb: Code used when training the model
 ***
 
 ## __Model architecture.__
-<img src="/images/model.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="/images/model.png" width="1200px" height="800px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
 ***
 ## __Precautions for use.__
