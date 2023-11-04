@@ -51,7 +51,7 @@ main_data : Path where collected data is stored: We collected left, right clockw
 
 main_files :
 - CustomDataset.py : Implement customdataloader as a class using pytorch.
-- make_dataset.ipynb : Use it when collecting data __You must change class_num when you gather other dataset.__
+- make_dataset.ipynb : Use it when collecting data. <span style="color:yellow">You must change class_num when you gather other dataset.</span>
 
 
 - model.py : CNN-LSTM model was implemented as class type.
