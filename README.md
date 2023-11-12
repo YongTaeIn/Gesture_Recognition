@@ -67,7 +67,13 @@ train.ipynb: Code used when training the model
 ## __Model architecture.__
 <img src="/images/model.png" width="1000px" height="600px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
+
+## Test.
+<img width="50%" src="/images/test.gif" width="1000px" height="600px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+
 ***
+
+
 ## __Precautions for use.__
 1. mediapipe need python version 3.8 - 3.11 , Beware of version conflicts! (If you used requirement.txt, no need to worry)
 2. If you use a public server rather than a local computer, an error will occur in your code because there is no camera.
