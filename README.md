@@ -70,7 +70,7 @@ train.ipynb: Code used when training the model
 ***
 
 ## Test.
-<img src="/images/test.gif" width="1000px" height="600px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img width="50%" src="/images/test.gif" width="1000px" height="600px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
 
 
