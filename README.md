@@ -44,14 +44,14 @@ This repository contains all the code(model, make_dataset etc) so you can custom
 
 ***
 
-## __Explanation about folder.__
+## __Explanation about Folder & File.__
 development_files_for_reference :  Miscellaneous files used during development (feel free to delete)
 
 main_data : Path where collected data is stored: We collected left, right clockwise and counterclockwise data.
 
 main_files :
 - CustomDataset.py : Implement customdataloader as a class using pytorch.
-- make_dataset.ipynb : Use it when collecting data __You must change class_num when you gather other dataset.__
+- make_dataset.ipynb : Use it when collecting data. __You must change class_num when you gather other dataset.__
 
 
 - model.py : CNN-LSTM model was implemented as class type.
@@ -65,7 +65,7 @@ train.ipynb: Code used when training the model
 ***
 
 ## __Model architecture.__
-
+<img src="/images/model.png" width="1000px" height="600px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
 ***
 ## __Precautions for use.__
